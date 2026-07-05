@@ -11,7 +11,7 @@ const app = express();
 app.get("/", (req, res) => {
   res.json({
     status: "OK",
-    session: "NB6007CEMS2",
+    session: "NB6007CEM9992",
   });
 });
 
